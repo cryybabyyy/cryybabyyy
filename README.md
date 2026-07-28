@@ -3,7 +3,6 @@
 ## Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/DevTools-Web-blue?logo=googlechrome&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web-Development-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" />
